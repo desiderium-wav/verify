@@ -192,3 +192,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Ignore uploaded image files and secrets
+*.jpg
+*.jpeg
+*.png
+.env
