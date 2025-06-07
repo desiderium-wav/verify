@@ -1,0 +1,6 @@
+discord.py
+pytesseract
+opencv-python-headless
+deepface
+Pillow
+requests
